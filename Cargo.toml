@@ -1,0 +1,8 @@
+[package]
+name = "pba-remote-exotic-primitives-VRF-activity-group-3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+schnorrkel = "0.11.4"
+rand = "0.8.5"

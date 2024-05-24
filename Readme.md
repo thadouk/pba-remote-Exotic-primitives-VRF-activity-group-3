@@ -1,5 +1,9 @@
 # Activity: Infinite deck poker using VRFs
 
+```
+cargo r
+```
+
 As we learnt in class, VRFs are a way of providing private randomness that can later be publicly revealed.
 
 A card game also has randomness, for instance, drawing a random card, which can be kept a secret until the card is played.
